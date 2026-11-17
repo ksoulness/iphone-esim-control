@@ -1,0 +1,7 @@
+*.bak
+*.bak-*
+__pycache__/
+*.pyc
+.DS_Store
+*.shortcut
+plans.local.json
